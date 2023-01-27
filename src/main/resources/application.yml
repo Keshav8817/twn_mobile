@@ -15,7 +15,7 @@ spring:
   application:
     name: TWN-SERVER
   datasource:
-     url: jdbc:mysql://gigamysql.mysql.database.azure.com:3306/twn_test
+    url: jdbc:mysql://gigamysql.mysql.database.azure.com:3306/twn_test
     username: admin1
     password: Password@123
   profiles:
